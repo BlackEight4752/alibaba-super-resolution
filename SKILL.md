@@ -4,6 +4,7 @@ description: "Enhance video resolution using Alibaba Cloud Super Resolution API.
 version: 1.0.0
 category: media-processing
 argument-hint: "[input video] [output video]"
+license: MIT
 ---
 
 # Alibaba Cloud Super Resolution (阿里云视频超分辨率)
