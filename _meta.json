@@ -1,0 +1,12 @@
+{
+  "name": "alibaba-super-resolution",
+  "version": "1.0.0",
+  "author": "Double Dog Radio Project",
+  "license": "MIT",
+  "dependencies": [
+    "requests",
+    "alibabacloud_tea_openapi",
+    "alibabacloud_tea_util",
+    "alibabacloud_videoenhan20200320"
+  ]
+}
