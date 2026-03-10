@@ -146,11 +146,3 @@ alibaba-super-resolution/
 ## 📄 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 PR！
-
----
-
-**Made with 🖤 by Double Dog Radio Project**
