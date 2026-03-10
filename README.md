@@ -1,16 +1,16 @@
 # ☁️ Alibaba Cloud Super Resolution
 
 阿里云视频超分辨率 Skill - 为 OpenClaw 设计
+本技能调用阿里云视频超分辨能力，可以将输入视频放大2倍尺寸输出，并基于细节推断增强输出视频画质，输出视频为h264编码、MP4格式；
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
-
+[![阿里云超级分辨率官方]([https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT](https://help.aliyun.com/zh/viapi/developer-reference/api-w2n4j6?spm=5176.30275541.J_ZGek9Blx07Hclc3Ddt9dg.1.23722f3dIyTr4v&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@159118._.ID_help@@%E6%96%87%E6%A1%A3@@159118-RL_%E8%B6%85%E7%BA%A7%E5%88%86%E8%BE%A8%E7%8E%87-LOC_2024SPAllResult-OR_ser-PAR1_215029ae17731433060538338d0c65-V_4-PAR3_o-RE_new13-P0_0-P1_0))
 ## ✨ 功能特性
 
-- 🎬 **AI 超分**：将低分辨率视频（480p）提升至高分辨率（1080p）
+- 🎬 **AI 超分**：将低分辨率视频（≤720p）提升至2x分辨率
 - 📤 **本地上传**：支持本地文件直接上传（最大 2GB）
 - ⚙️ **灵活配置**：可自定义码率，平衡质量和文件大小
-- 🧪 **演示模式**：无 API 密钥也可体验基本功能
 - 🔄 **异步处理**：支持后台任务、状态查询、自动下载
 
 ## 📦 快速开始
