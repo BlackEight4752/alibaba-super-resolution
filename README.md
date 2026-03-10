@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
 
-[阿里云超级分辨率官方文档](https://help.aliyun.com/zh/viapi/developer-reference/api-w2n4j6?spm=5176.30275541.J_ZGek9Blx07Hclc3Ddt9dg.1.23722f3dIyTr4v&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@159118._.ID_help@@%E6%96%87%E6%A1%A3@@159118-RL_%E8%B6%85%E7%BA%A7%E5%88%86%E8%BE%A8%E7%8E%87-LOC_2024SPAllResult-OR_ser-PAR1_215029ae17731433060538338d0c65-V_4-PAR3_o-RE_new13-P0_0-P1_0))
+[阿里云超级分辨率官方文档](https://help.aliyun.com/zh/viapi/developer-reference/api-w2n4j6?spm=5176.30275541.J_ZGek9Blx07Hclc3Ddt9dg.1.23722f3dIyTr4v&scm=20140722.S_help@@%E6%96%87%E6%A1%A3@@159118._.ID_help@@%E6%96%87%E6%A1%A3@@159118-RL_%E8%B6%85%E7%BA%A7%E5%88%86%E8%BE%A8%E7%8E%87-LOC_2024SPAllResult-OR_ser-PAR1_215029ae17731433060538338d0c65-V_4-PAR3_o-RE_new13-P0_0-P1_0)
 
 
 ## ✨ 功能特性
